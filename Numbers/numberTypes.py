@@ -22,7 +22,7 @@ print(10 ** 3)  # Exponent, less left to the poser of right
 # Augmentet assignment operator
 x = 10
     # Increment by 3
-# x = x + 3
+x = x + 3
     # Or (Uncomment each)
 # x += 3
 # x -= 3
